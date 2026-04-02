@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  사이트 업데이트 대응: UI가 삭제되어도 자동으로 다시 생성하는 불사신 로직 적용
-// @author       CDD
+// @author       candid0649
 // @match        https://crack.wrtn.ai/*
 // @grant        none
 // ==/UserScript==
