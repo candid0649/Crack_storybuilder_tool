@@ -15,6 +15,6 @@
 📝 빈 설명칸 '1' 채우기: 비어있는 이미지 설명(프롬프트) 칸에만 자동으로 '1'을 입력하여 유효성 검사를 통과하도록 돕습니다.
 
 ⚙️ 설치 방법:
-
+https://github.com/candid0649/Crack_storybuilder_tool/blob/main/storybuilder.user.js
 
 ⚠️ 주의사항: 모든 작업이 완료된 후, 페이지 내의 [저장하기] 또는 [스토리 저장] 버튼을 반드시 눌러야 서버에 최종 반영됩니다.
